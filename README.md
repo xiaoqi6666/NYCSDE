@@ -39,7 +39,7 @@
 - [宅家半年，终于出门放风了...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486085&idx=1&sn=dfa164a2b5abdbe8c2e7598003b8cd22&chksm=e8f49abfdf8313a9d6516fad0f5dfac7bd3ea68f082cbface8e14ecc6414a72dfd7f5c031ac7&token=462746322&lang=zh_CN#rd)  
 
 
-### 《齐姐聊大厂》系列：每周五早上8点，公众号首发
+### 《齐姐聊大厂》系列：每周五早上 8 点，公众号首发
 
 - [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
 - [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
