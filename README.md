@@ -49,6 +49,13 @@
 - [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)  
 - [在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)  
 
+### 学习路线/方法  
+- [老师都没告诉你的后端技术学什么，齐姐 42 张图告诉你](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486174&idx=1&sn=d25f4b11a6ea70134e354a3fc10f4fc6&chksm=e8f49ae4df8313f262388b5b0c7bcd2f518abb14a0f1b9a2df07528bdd02e9ff7fe8ce13e618&token=939207694&lang=zh_CN#rd)  
+- [Leetcode 如何刷题](https://t.1yb.co/3p0R)   
+
+### 面试经验  
+- [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
+
 
 ### 多线程系列
 
@@ -73,8 +80,7 @@
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)  
 - [反转链表](https://t.1yb.co/3p0Q)  
 - [递归和 DP 的入门](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000222&idx=1&sn=2882975d5ed764368ba09d352a1c3c36&chksm=68f491e45f8318f2140d980c6b73b1318e3ef8be31194f4cf3bce054bfe93dc433dcb19be2a9#rd) —— 一题入门递归和 DP   
-- [拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd)   
-- [从 LRU Cache 带你看面试的本质](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000273&idx=1&sn=fc87f93667fbc08138dedf987ef6a04a&chksm=68f4922b5f831b3de72d4a1f043193557eca52f81ac40c5d29db72919ffea0979a05d9481a7b#rd)   
+- [拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd)    
 - [二进制究竟有什么用？齐姐带你看看那些好玩儿的「位操作」](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485805&idx=1&sn=f96eb8cbfb70d9c36cc0600c7358ca81&chksm=e8f49957df8310411155d2f8d6789d19e4afca1138316fa1df27784a4bbb5cb6d05f3b745a94&token=462746322&lang=zh_CN#rd)  
 - [秒杀 2Sum 3Sum 4Sum 算法题](https://mp.weixin.qq.com/s/cadPDq7D3IYYnnMWTWhf_g)  
 
