@@ -23,6 +23,8 @@
 [![](https://img.shields.io/badge/思否-segmentfault-ff69b4)](https://segmentfault.com/u/xiaoqibenqi/articles)
 [![](https://img.shields.io/badge/记得给我-Star-success)](https://github.com/huiqit/SheIsSDEatNYC)
 
+## [做公众号的初心](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483805&idx=1&sn=a518935eb89599aea7ef9f091e5cd870&chksm=e8f491a7df8318b17519bf5779af17bfdcf3b054c096f7669a4ac850f7bfe39228e2e88ad6be&token=939207694&lang=zh_CN#rd)  
+
 ### 一起自习吧  
 
 北京时间每晚 9 点，齐姐都在 B 站直播自习，大家都会打卡签到，是 B 站最好的程序员自习群～～
@@ -35,8 +37,15 @@
 ### 我的故事  
 - [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
 - [我的大学四年](https://t.1yb.co/3p0O)    
-- [我为什么离开投行？](https://t.1yb.co/3p0H)    
+- [我为什么离开投行？](https://t.1yb.co/3p0H)   
+- [在纽约科技公司上班的第一周是怎样的？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483804&idx=1&sn=de8a4d70f37ae304173a666bfde5fedf&chksm=e8f491a6df8318b0065bd01321255ce5c3250e19a4c6766a9f8f8ea72718141154d58c28418f&token=939207694&lang=zh_CN#rd)  
 - [宅家半年，终于出门放风了...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486085&idx=1&sn=dfa164a2b5abdbe8c2e7598003b8cd22&chksm=e8f49abfdf8313a9d6516fad0f5dfac7bd3ea68f082cbface8e14ecc6414a72dfd7f5c031ac7&token=462746322&lang=zh_CN#rd)  
+- [暴乱 | 宵禁 | 最近我身边的事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484758&idx=1&sn=0e93daa214f4105ef92819916c20658e&chksm=e8f4956cdf831c7af3c5db0eddb3e56d101e97234186c053baa479743faca37133682c60c3c0&token=939207694&lang=zh_CN#rd)  
+- [程序员版《后浪》](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483918&idx=1&sn=bc4d582a4653af63c80c360e9468a6aa&chksm=e8f49234df831b22807615fdf42f612ece1897cd7a78370c8cc984c565f82a45e167d6dac29d&token=939207694&lang=zh_CN#rd)  
+- [在美国毕业后第一年薪水有 200 万？？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483898&idx=1&sn=f3ba4ad9092a694469eb9abc8ac9041d&chksm=e8f491c0df8318d65794d8d724c4d137526f27d019a5a1dcd305ea086153d9a15daab43037c9&token=939207694&lang=zh_CN#rd)  
+- [疫情下开始在家工作，现在除了防护还应做好哪些准备？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483798&idx=1&sn=3ee12a5a4d8d3290d54ef0d805aaafe1&chksm=e8f491acdf8318ba1e238b603ea050150ffc37467801058a65d5edcd55910f8588e788a3d89b&token=939207694&lang=zh_CN#rd)  
+- [对抗新型肺炎，保险能 cover 多少？手把手带你选中美保险](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483803&idx=1&sn=10d6fad12d0e15f924d76b4994c2b817&chksm=e8f491a1df8318b76e629251fe6fd521eb4452baa032e9bf897301d1222a0eaf8d227eb19c7c&token=939207694&lang=zh_CN#rd)  
+
 
 
 ### 《齐姐聊大厂》系列：每周五早上 8 点，公众号首发
@@ -55,7 +64,7 @@
 
 ### 面试经验  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
-
+- [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
 
 ### 多线程系列
 
@@ -118,9 +127,12 @@
 
 
 
-### 面经系列：
+### 职场系列：
+- [为什么老板给 ta 升职加薪？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484949&idx=1&sn=f00cb18881a5f02ffb237921ac82f67e&chksm=e8f4962fdf831f39d4b042a4bedd593683dc2cc7e254516c773816e9b47e27433ee097fc3d87&token=939207694&lang=zh_CN#rd)  
+- [本周工作中的一点小心思](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483987&idx=1&sn=9ed0f6c3036b7e42ddd830144894bafb&chksm=e8f49269df831b7f2eef2bdd80854a6ebb9083ed4ed19e6f0a3bc788ce0eb791a3834218c753&token=939207694&lang=zh_CN#rd)  
+- [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
 
-- [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)
+
 
 
 
