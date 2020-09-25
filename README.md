@@ -70,7 +70,6 @@
 - [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
 - [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)  
 - [亚马逊的 14 条领导力准则](https://t.1yb.co/3p0N)  
-
 - [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)   
 
 
