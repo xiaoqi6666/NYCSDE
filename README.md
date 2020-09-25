@@ -57,14 +57,22 @@
 - [入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
 - [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)  
 - [在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)  
+- [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
+- [为什么老板给 ta 升职加薪？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484949&idx=1&sn=f00cb18881a5f02ffb237921ac82f67e&chksm=e8f4962fdf831f39d4b042a4bedd593683dc2cc7e254516c773816e9b47e27433ee097fc3d87&token=939207694&lang=zh_CN#rd)  
+- [本周工作中的一点小心思](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483987&idx=1&sn=9ed0f6c3036b7e42ddd830144894bafb&chksm=e8f49269df831b7f2eef2bdd80854a6ebb9083ed4ed19e6f0a3bc788ce0eb791a3834218c753&token=939207694&lang=zh_CN#rd) 
 
 ### 学习路线/方法  
 - [老师都没告诉你的后端技术学什么，齐姐 42 张图告诉你](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486174&idx=1&sn=d25f4b11a6ea70134e354a3fc10f4fc6&chksm=e8f49ae4df8313f262388b5b0c7bcd2f518abb14a0f1b9a2df07528bdd02e9ff7fe8ce13e618&token=939207694&lang=zh_CN#rd)  
 - [Leetcode 如何刷题](https://t.1yb.co/3p0R)   
 
-### 面试经验  
+### 面试/求职经验  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
 - [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
+- [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)  
+- [亚马逊的 14 条领导力准则](https://t.1yb.co/3p0N)  
+
+- [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)   
+
 
 ### 多线程系列
 
@@ -92,7 +100,6 @@
 - [拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd)    
 - [二进制究竟有什么用？齐姐带你看看那些好玩儿的「位操作」](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485805&idx=1&sn=f96eb8cbfb70d9c36cc0600c7358ca81&chksm=e8f49957df8310411155d2f8d6789d19e4afca1138316fa1df27784a4bbb5cb6d05f3b745a94&token=462746322&lang=zh_CN#rd)  
 - [秒杀 2Sum 3Sum 4Sum 算法题](https://mp.weixin.qq.com/s/cadPDq7D3IYYnnMWTWhf_g)  
-
 - [Find minimum in Rotate Sorted Array](http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000055&idx=1&sn=2b8f9f6ea5740e2af0ffaaafffea9be1&chksm=7e544fdd4923c6cb1daa0f4ad7020cb7a99d381711708b2a76837b4685e9158228047a63b857#rd) - 对应 Leetcode 153 & 154     
 - [Find a target in Rotate Sorted Array](
   http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000069&idx=1&sn=a4bf5b7e7a56585bb9c142363d819566&chksm=7e544faf4923c6b908402bb9559f94cad1b1de6620a4f218068d8c8d7bb57174b104cfbefb7a#rd) - 对应 Leetcode 33 & 81  
@@ -114,24 +121,6 @@
 ### 其他技术文章：  
 
 - [Git 看着一篇就够了](https://t.1yb.co/3p0P)  
-
-
-### Networking
-
-- [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)  
-
-### BQ 系列：
-
-- [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)  
-- [亚马逊的 14 条领导力准则](https://t.1yb.co/3p0N)   
-
-
-
-### 职场系列：
-- [为什么老板给 ta 升职加薪？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484949&idx=1&sn=f00cb18881a5f02ffb237921ac82f67e&chksm=e8f4962fdf831f39d4b042a4bedd593683dc2cc7e254516c773816e9b47e27433ee097fc3d87&token=939207694&lang=zh_CN#rd)  
-- [本周工作中的一点小心思](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483987&idx=1&sn=9ed0f6c3036b7e42ddd830144894bafb&chksm=e8f49269df831b7f2eef2bdd80854a6ebb9083ed4ed19e6f0a3bc788ce0eb791a3834218c753&token=939207694&lang=zh_CN#rd)  
-- [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
-
 
 
 
