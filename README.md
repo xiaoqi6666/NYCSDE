@@ -45,7 +45,10 @@
 - [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
 - [从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)  
 - [入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
-- [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)
+- [入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
+- [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)  
+- [在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)  
+
 
 ### 多线程系列
 
