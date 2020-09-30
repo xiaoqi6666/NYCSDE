@@ -36,6 +36,8 @@
 
 ### 我的故事  
 - [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
+- [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
+- [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
 - [我的大学四年](https://t.1yb.co/3p0O)    
 - [我为什么离开投行？](https://t.1yb.co/3p0H)   
 - [在纽约科技公司上班的第一周是怎样的？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483804&idx=1&sn=de8a4d70f37ae304173a666bfde5fedf&chksm=e8f491a6df8318b0065bd01321255ce5c3250e19a4c6766a9f8f8ea72718141154d58c28418f&token=939207694&lang=zh_CN#rd)  
@@ -67,6 +69,7 @@
 
 ### 面试/求职经验  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
+- [靠这些秋招秘笈，齐姐的学妹拿到了 8 个offer](https://mp.weixin.qq.com/s/YnhMnq20kB2cQ2FC0acgbA)  
 - [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
 - [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)  
 - [亚马逊的 14 条领导力准则](https://t.1yb.co/3p0N)  
