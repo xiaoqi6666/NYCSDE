@@ -19,9 +19,6 @@
 [![](https://img.shields.io/badge/Wechat-私人微信-red)](#微信)
 [![](https://img.shields.io/badge/哔哩哔哩-B站-ff69b4)](https://space.bilibili.com/494413969)
 [![](https://img.shields.io/badge/Youtube-油管-ff69b4)](https://www.youtube.com/channel/UCs9h4-b9r6yR1zl4yf6lCmQ)
-[![](https://img.shields.io/badge/掘金-juejin-9cf)](https://juejin.im/user/5e8b95d0e51d4546fa452087/posts)
-[![](https://img.shields.io/badge/思否-segmentfault-ff69b4)](https://segmentfault.com/u/xiaoqibenqi/articles)
-[![](https://img.shields.io/badge/记得给我-Star-success)](https://github.com/huiqit/SheIsSDEatNYC)
 
 ## [做公众号的初心](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483805&idx=1&sn=a518935eb89599aea7ef9f091e5cd870&chksm=e8f491a7df8318b17519bf5779af17bfdcf3b054c096f7669a4ac850f7bfe39228e2e88ad6be&token=939207694&lang=zh_CN#rd)  
 
