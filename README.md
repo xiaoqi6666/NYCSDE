@@ -56,6 +56,7 @@
 - [一毕业就在阿里当 PM！聊聊都要做什么](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486499&idx=1&sn=340e45ef414c33a4aa42e4e48b16363d&chksm=e8f49c19df83150ffa16c3527bd69f861c1445ae7d3963df73fa2fed727d295d92760faabf45&token=2017775268&lang=zh_CN#rd)
 - [入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
 - [从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)  
+- [入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
 - [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
 - [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
 - [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
@@ -67,6 +68,7 @@
 - [Leetcode 如何刷题](https://t.1yb.co/3p0R)   
 
 ### 面试/求职经验  
+- [究竟什么样的简历才能拿到面试？](https://mp.weixin.qq.com/s/SFK6hGBLSeWHAtt3aNsFWQ)  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
 - [靠这些秋招秘笈，齐姐的学妹拿到了 8 个offer](https://mp.weixin.qq.com/s/YnhMnq20kB2cQ2FC0acgbA)  
 - [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
@@ -91,6 +93,8 @@
 - [入职大厂，齐姐精选的 9 道 Java 集合面试题](https://t.1yb.co/3p0K)  
 - [堆](https://t.1yb.co/3p0I)    
 - [看了齐姐这篇文章，再也不怕面试问树了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485454&idx=1&sn=1d87aa9d561af3000fabd0299bc5641f&chksm=e8f49834df831122441f6b7fc6485e29b1b0206232cf4ea744da5a5164d42fd45f92b45c2e8a#rd)  
+- [有关链表的小技巧，我都给你总结好了](https://mp.weixin.qq.com/s/dvdFf2eorAFtdL-y7FMpOA)  
+
 
 ### 算法系列：
 
