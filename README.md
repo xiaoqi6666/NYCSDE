@@ -57,7 +57,7 @@ FLAG 系列：
 - [谷歌 - 入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
 - [微软 - 入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
 
-- [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
+- [雅虎 - 一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
 - [在美国东海岸小公司工作 3 年的感受](https://mp.weixin.qq.com/s/AFtluIJuQsX-Zg7U2KVpaA)  
 
 国内系列：  
