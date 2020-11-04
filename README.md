@@ -35,7 +35,6 @@
 ### 我的故事  
 - [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
 - [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
-- [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
 - [我的大学四年](https://t.1yb.co/3p0O)    
 - [我为什么离开投行？](https://t.1yb.co/3p0H)   
 - [在纽约科技公司上班的第一周是怎样的？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483804&idx=1&sn=de8a4d70f37ae304173a666bfde5fedf&chksm=e8f491a6df8318b0065bd01321255ce5c3250e19a4c6766a9f8f8ea72718141154d58c28418f&token=939207694&lang=zh_CN#rd)  
@@ -50,22 +49,34 @@
 
 ### 《齐姐聊大厂》系列：每周五早上 8 点，公众号首发
 
-- [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
-- [入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
-- [在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)    
-- [一毕业就在阿里当 PM！聊聊都要做什么](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486499&idx=1&sn=340e45ef414c33a4aa42e4e48b16363d&chksm=e8f49c19df83150ffa16c3527bd69f861c1445ae7d3963df73fa2fed727d295d92760faabf45&token=2017775268&lang=zh_CN#rd)
-- [入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
-- [从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)  
-- [入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
-- [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
-- [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
+FLAG 系列：
+
+- [Linkedin - 钱多活少饭好吃的公司，你愿意来吗？](https://mp.weixin.qq.com/s/SjkKVDYKmH8VwmaXceKy5g)  
+- [Apple - 在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)    
+- [Amazon - 从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)   
 - [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
+- [谷歌 - 入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
+- [微软 - 入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
+
+
+- [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
+- [在美国东海岸小公司工作 3 年的感受](https://mp.weixin.qq.com/s/AFtluIJuQsX-Zg7U2KVpaA)  
+
+国内系列：  
+
+- [阿里 - 一毕业就在阿里当 PM！聊聊都要做什么](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486499&idx=1&sn=340e45ef414c33a4aa42e4e48b16363d&chksm=e8f49c19df83150ffa16c3527bd69f861c1445ae7d3963df73fa2fed727d295d92760faabf45&token=2017775268&lang=zh_CN#rd)
+- [字节 - 入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
+
+金融行业：  
+- [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
+- [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
+
 - [为什么老板给 ta 升职加薪？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484949&idx=1&sn=f00cb18881a5f02ffb237921ac82f67e&chksm=e8f4962fdf831f39d4b042a4bedd593683dc2cc7e254516c773816e9b47e27433ee097fc3d87&token=939207694&lang=zh_CN#rd)  
 - [本周工作中的一点小心思](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483987&idx=1&sn=9ed0f6c3036b7e42ddd830144894bafb&chksm=e8f49269df831b7f2eef2bdd80854a6ebb9083ed4ed19e6f0a3bc788ce0eb791a3834218c753&token=939207694&lang=zh_CN#rd) 
 
 ### 学习路线/方法  
 - [老师都没告诉你的后端技术学什么，齐姐 42 张图告诉你](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486174&idx=1&sn=d25f4b11a6ea70134e354a3fc10f4fc6&chksm=e8f49ae4df8313f262388b5b0c7bcd2f518abb14a0f1b9a2df07528bdd02e9ff7fe8ce13e618&token=939207694&lang=zh_CN#rd)  
-- [Leetcode 如何刷题](https://t.1yb.co/3p0R)   
+- [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
 
 ### 面试/求职经验  
 - [究竟什么样的简历才能拿到面试？](https://mp.weixin.qq.com/s/SFK6hGBLSeWHAtt3aNsFWQ)  
@@ -97,8 +108,8 @@
 
 
 ### 算法系列：
-
-- [Leetcode 如何刷题](https://t.1yb.co/3p0R)  
+- [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
+- [Leetcode 如何刷题 - 视频版](https://t.1yb.co/3p0R)  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)  
 - [反转链表](https://t.1yb.co/3p0Q)  
 - [递归和 DP 的入门](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000222&idx=1&sn=2882975d5ed764368ba09d352a1c3c36&chksm=68f491e45f8318f2140d980c6b73b1318e3ef8be31194f4cf3bce054bfe93dc433dcb19be2a9#rd) —— 一题入门递归和 DP   
