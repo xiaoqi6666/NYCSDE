@@ -50,7 +50,6 @@
 ### 《齐姐聊大厂》系列：每周五早上 8 点，公众号首发
 
 FLAG 系列：
-
 - [Linkedin - 钱多活少饭好吃的公司，你愿意来吗？](https://mp.weixin.qq.com/s/SjkKVDYKmH8VwmaXceKy5g)  
 - [Apple - 在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)    
 - [Amazon - 从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)   
@@ -58,12 +57,10 @@ FLAG 系列：
 - [谷歌 - 入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
 - [微软 - 入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
 
-
 - [一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
 - [在美国东海岸小公司工作 3 年的感受](https://mp.weixin.qq.com/s/AFtluIJuQsX-Zg7U2KVpaA)  
 
 国内系列：  
-
 - [阿里 - 一毕业就在阿里当 PM！聊聊都要做什么](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486499&idx=1&sn=340e45ef414c33a4aa42e4e48b16363d&chksm=e8f49c19df83150ffa16c3527bd69f861c1445ae7d3963df73fa2fed727d295d92760faabf45&token=2017775268&lang=zh_CN#rd)
 - [字节 - 入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
 
