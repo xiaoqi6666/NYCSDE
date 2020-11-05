@@ -63,6 +63,8 @@ FLAG 系列：
 国内系列：  
 - [阿里 - 一毕业就在阿里当 PM！聊聊都要做什么](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486499&idx=1&sn=340e45ef414c33a4aa42e4e48b16363d&chksm=e8f49c19df83150ffa16c3527bd69f861c1445ae7d3963df73fa2fed727d295d92760faabf45&token=2017775268&lang=zh_CN#rd)
 - [字节 - 入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
+- [腾讯 - 教你在鹅厂如何带薪刷视频？](https://mp.weixin.qq.com/s/5zLKEfg9qzMtcfJtsjoKcA)  
+- [字节 - 入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
 
 金融行业：  
 - [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
