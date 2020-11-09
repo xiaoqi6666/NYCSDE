@@ -119,10 +119,9 @@ FLAG 系列：
 - [拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd)    
 - [二进制究竟有什么用？齐姐带你看看那些好玩儿的「位操作」](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485805&idx=1&sn=f96eb8cbfb70d9c36cc0600c7358ca81&chksm=e8f49957df8310411155d2f8d6789d19e4afca1138316fa1df27784a4bbb5cb6d05f3b745a94&token=462746322&lang=zh_CN#rd)  
 - [秒杀 2Sum 3Sum 4Sum 算法题](https://mp.weixin.qq.com/s/cadPDq7D3IYYnnMWTWhf_g)  
-- [Find minimum in Rotate Sorted Array](http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000055&idx=1&sn=2b8f9f6ea5740e2af0ffaaafffea9be1&chksm=7e544fdd4923c6cb1daa0f4ad7020cb7a99d381711708b2a76837b4685e9158228047a63b857#rd) - 对应 Leetcode 153 & 154     
-- [Find a target in Rotate Sorted Array](
-  http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000069&idx=1&sn=a4bf5b7e7a56585bb9c142363d819566&chksm=7e544faf4923c6b908402bb9559f94cad1b1de6620a4f218068d8c8d7bb57174b104cfbefb7a#rd) - 对应 Leetcode 33 & 81  
-- [2道关于开会的题](http://mp.weixin.qq.com/s?__biz=MzU5NzMzNDkxNw==&mid=100000088&idx=1&sn=464ddc7e3e1558a198a6c13b4b720db3&chksm=7e544fb24923c6a4283374504f035ea55f7274b7111db9458ea21153303a93080c57d5097258#rd) - 对应 Leetcode 252 & 253: Meeting Rooms   
+- [二分查找——Find minimum in Rotate Sorted Array](https://mp.weixin.qq.com/s/C8KcEkYsqtcW1yniXARPbw) - 对应 Leetcode 153 & 154     
+- [二分查找——Find a target in Rotate Sorted Array](https://mp.weixin.qq.com/s/jJzTKJTaMIx753XwVYT8pw) - 对应 Leetcode 33 & 81  
+- [Meeting room](https://mp.weixin.qq.com/s/x-kroWsyFgqmQhlB793TOg) - 对应 Leetcode 252 & 253: Meeting Rooms   
 
 **排序算法**：  
   - [插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)  
@@ -133,8 +132,8 @@ FLAG 系列：
 
 ### Spring 系列：  
 
-- [一分钟入门 Spring](https://juejin.im/post/5e8cdfa76fb9a03c947cca6e)    
-- [一分钟带你玩转 Spring IoC](https://juejin.im/post/5ea0b0bdf265da47cc02a37f)   
+- [一分钟入门 Spring](https://mp.weixin.qq.com/s/5lM4TeK2CioyzSyRP1cROg)    
+- [一分钟带你玩转 Spring IoC](https://mp.weixin.qq.com/s/F_ISmJwNuH1I3l6IXua2SQ)   
 
 
 ### 其他技术文章：  
