@@ -59,11 +59,11 @@ FLAG 系列：
 - [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
 - [谷歌 - 入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
 - [微软 - 入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
-
 - [雅虎 - 一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
 - [在美国东海岸小公司工作 3 年的感受](https://mp.weixin.qq.com/s/AFtluIJuQsX-Zg7U2KVpaA)  
 
 国内系列：  
+- [百万年薪，国内工作 6 年的前辈想和你分享这四点](https://mp.weixin.qq.com/s/euCJ4OdAe2MocJq9lwWQiw)  
 - [阿里 - 一毕业就在阿里当 PM！聊聊都要做什么](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486499&idx=1&sn=340e45ef414c33a4aa42e4e48b16363d&chksm=e8f49c19df83150ffa16c3527bd69f861c1445ae7d3963df73fa2fed727d295d92760faabf45&token=2017775268&lang=zh_CN#rd)
 - [字节 - 入职抖音，天天刷小姐姐，我有点吃不消...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486064&idx=1&sn=1de0ea6001eea50b0786966ccb2515b6&chksm=e8f49a4adf83135cec5e440125b6bf6cde96ab3bf1de942243fd78c49b65a30f9c78ff03abf2&token=462746322&lang=zh_CN#rd)  
 - [腾讯 - 教你在鹅厂如何带薪刷视频？](https://mp.weixin.qq.com/s/5zLKEfg9qzMtcfJtsjoKcA)  
@@ -73,6 +73,7 @@ FLAG 系列：
 - [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
 - [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
 
+其他：  
 - [为什么老板给 ta 升职加薪？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484949&idx=1&sn=f00cb18881a5f02ffb237921ac82f67e&chksm=e8f4962fdf831f39d4b042a4bedd593683dc2cc7e254516c773816e9b47e27433ee097fc3d87&token=939207694&lang=zh_CN#rd)  
 - [本周工作中的一点小心思](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483987&idx=1&sn=9ed0f6c3036b7e42ddd830144894bafb&chksm=e8f49269df831b7f2eef2bdd80854a6ebb9083ed4ed19e6f0a3bc788ce0eb791a3834218c753&token=939207694&lang=zh_CN#rd) 
 
