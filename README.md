@@ -37,6 +37,7 @@
 
 ### 算法系列：
 - [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
+- [刷题到底有什么用？你这么刷题还真没用](https://mp.weixin.qq.com/s/afgfp3FQAauywAEElibD9w)  
 - [Leetcode 如何刷题 - 视频版](https://t.1yb.co/3p0R)  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)  
 - [反转链表](https://t.1yb.co/3p0Q)  
