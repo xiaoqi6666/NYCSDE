@@ -35,19 +35,45 @@
 [我是如何做到自律的](https://tinyurl.com/y6lco737)  
 [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
 
-### 我的故事  
-- [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
-- [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
-- [我的大学四年](https://t.1yb.co/3p0O)    
-- [我为什么离开投行？](https://t.1yb.co/3p0H)   
-- [在纽约科技公司上班的第一周是怎样的？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483804&idx=1&sn=de8a4d70f37ae304173a666bfde5fedf&chksm=e8f491a6df8318b0065bd01321255ce5c3250e19a4c6766a9f8f8ea72718141154d58c28418f&token=939207694&lang=zh_CN#rd)  
-- [宅家半年，终于出门放风了...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486085&idx=1&sn=dfa164a2b5abdbe8c2e7598003b8cd22&chksm=e8f49abfdf8313a9d6516fad0f5dfac7bd3ea68f082cbface8e14ecc6414a72dfd7f5c031ac7&token=462746322&lang=zh_CN#rd)  
-- [暴乱 | 宵禁 | 最近我身边的事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484758&idx=1&sn=0e93daa214f4105ef92819916c20658e&chksm=e8f4956cdf831c7af3c5db0eddb3e56d101e97234186c053baa479743faca37133682c60c3c0&token=939207694&lang=zh_CN#rd)  
-- [程序员版《后浪》](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483918&idx=1&sn=bc4d582a4653af63c80c360e9468a6aa&chksm=e8f49234df831b22807615fdf42f612ece1897cd7a78370c8cc984c565f82a45e167d6dac29d&token=939207694&lang=zh_CN#rd)  
-- [在美国毕业后第一年薪水有 200 万？？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483898&idx=1&sn=f3ba4ad9092a694469eb9abc8ac9041d&chksm=e8f491c0df8318d65794d8d724c4d137526f27d019a5a1dcd305ea086153d9a15daab43037c9&token=939207694&lang=zh_CN#rd)  
-- [疫情下开始在家工作，现在除了防护还应做好哪些准备？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483798&idx=1&sn=3ee12a5a4d8d3290d54ef0d805aaafe1&chksm=e8f491acdf8318ba1e238b603ea050150ffc37467801058a65d5edcd55910f8588e788a3d89b&token=939207694&lang=zh_CN#rd)  
-- [对抗新型肺炎，保险能 cover 多少？手把手带你选中美保险](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483803&idx=1&sn=10d6fad12d0e15f924d76b4994c2b817&chksm=e8f491a1df8318b76e629251fe6fd521eb4452baa032e9bf897301d1222a0eaf8d227eb19c7c&token=939207694&lang=zh_CN#rd)  
+### 算法系列：
+- [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
+- [Leetcode 如何刷题 - 视频版](https://t.1yb.co/3p0R)  
+- [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)  
+- [反转链表](https://t.1yb.co/3p0Q)  
+- [递归和 DP 的入门](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000222&idx=1&sn=2882975d5ed764368ba09d352a1c3c36&chksm=68f491e45f8318f2140d980c6b73b1318e3ef8be31194f4cf3bce054bfe93dc433dcb19be2a9#rd) —— 一题入门递归和 DP   
+- [拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd)    
+- [二进制究竟有什么用？齐姐带你看看那些好玩儿的「位操作」](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485805&idx=1&sn=f96eb8cbfb70d9c36cc0600c7358ca81&chksm=e8f49957df8310411155d2f8d6789d19e4afca1138316fa1df27784a4bbb5cb6d05f3b745a94&token=462746322&lang=zh_CN#rd)  
+- [秒杀 2Sum 3Sum 4Sum 算法题](https://mp.weixin.qq.com/s/cadPDq7D3IYYnnMWTWhf_g)  
+- [二分查找——Find minimum in Rotate Sorted Array](https://mp.weixin.qq.com/s/C8KcEkYsqtcW1yniXARPbw) - 对应 Leetcode 153 & 154     
+- [二分查找——Find a target in Rotate Sorted Array](https://mp.weixin.qq.com/s/jJzTKJTaMIx753XwVYT8pw) - 对应 Leetcode 33 & 81  
+- [Meeting room](https://mp.weixin.qq.com/s/x-kroWsyFgqmQhlB793TOg) - 对应 Leetcode 252 & 253: Meeting Rooms   
 
+**排序算法**：  
+  - [插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)  
+  - [归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)  
+  - [快速排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000886&idx=1&sn=a6121c5eb2031646012fa434aee5f883&chksm=68f4944c5f831d5a3e49c3e6c1314a21d4658886ce3e4e72f0be8a5532514851418a1d3f4ccd#rd)  
+  - [荷兰旗问题/彩虹排序/三色排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000907&idx=1&sn=a1edaefa4e6ccf82ecaa9f95a32d14ab&chksm=68f494b15f831da77f86042e4e560461a620def40f6ff8172a6ae778a210ab0385113d2f3a91#rd)   
+
+
+
+### 数据结构：
+
+- [Java 集合框架看这一篇就够了](https://t.1yb.co/3p0G)  
+- [有关 HashMap 面试会问的一切](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000171&idx=1&sn=4e38e67791f3f67e15aea2e666f6d308&chksm=68f491915f831887f943356c45dac6c8ebacd1bef31432d0aec509ec3a3b835fe0c1f5c5cc4a#rd)  
+- [入职大厂，齐姐精选的 9 道 Java 集合面试题](https://t.1yb.co/3p0K)  
+- [堆](https://t.1yb.co/3p0I)    
+- [看了齐姐这篇文章，再也不怕面试问树了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485454&idx=1&sn=1d87aa9d561af3000fabd0299bc5641f&chksm=e8f49834df831122441f6b7fc6485e29b1b0206232cf4ea744da5a5164d42fd45f92b45c2e8a#rd)  
+- [有关链表的小技巧，我都给你总结好了](https://mp.weixin.qq.com/s/dvdFf2eorAFtdL-y7FMpOA)  
+
+
+### 面试/求职经验  
+- [究竟什么样的简历才能拿到面试？](https://mp.weixin.qq.com/s/SFK6hGBLSeWHAtt3aNsFWQ)  
+- [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
+- [靠这些秋招秘笈，齐姐的学妹拿到了 8 个offer](https://mp.weixin.qq.com/s/YnhMnq20kB2cQ2FC0acgbA)  
+- [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
+- [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)  
+- [亚马逊的 14 条领导力准则](https://t.1yb.co/3p0N)  
+- [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)   
 
 
 ### 《齐姐聊大厂》系列：每周五早上 8 点，公众号首发
@@ -81,15 +107,6 @@ FLAG 系列：
 - [老师都没告诉你的后端技术学什么，齐姐 42 张图告诉你](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486174&idx=1&sn=d25f4b11a6ea70134e354a3fc10f4fc6&chksm=e8f49ae4df8313f262388b5b0c7bcd2f518abb14a0f1b9a2df07528bdd02e9ff7fe8ce13e618&token=939207694&lang=zh_CN#rd)  
 - [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
 
-### 面试/求职经验  
-- [究竟什么样的简历才能拿到面试？](https://mp.weixin.qq.com/s/SFK6hGBLSeWHAtt3aNsFWQ)  
-- [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
-- [靠这些秋招秘笈，齐姐的学妹拿到了 8 个offer](https://mp.weixin.qq.com/s/YnhMnq20kB2cQ2FC0acgbA)  
-- [ 面试 Google, 我失败了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484166&idx=1&sn=889522c3b9597196b2013596fc77acbf&chksm=e8f4933cdf831a2af4d6397358863797cd17df4f0138b06f58cbf066c35fece92040116c613b#rd)  
-- [面试常挂题：你最大的缺点是什么？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001078&idx=1&sn=e62b79ef90dbeb6a511cde598e1a18f4&chksm=68f4950c5f831c1a38dcc91562a7c0514f810836c28ca5395b3062fb810e5a19cd33df8f32ff#rd)  
-- [亚马逊的 14 条领导力准则](https://t.1yb.co/3p0N)  
-- [10+个真实案例告诉你 Linkedin 的正确勾搭方式](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100001156&idx=1&sn=5722dbaaa7db91ba888dfdebb1fd2051&chksm=68f495be5f831ca8638367f32a7352596120570e8ba7355d131475d5dee097c2241d7d22ac94#rd)   
-
 
 ### 多线程系列
 
@@ -100,34 +117,6 @@ FLAG 系列：
 - [并发架构设计](https://mp.weixin.qq.com/s/m7RoJcgphR9B8OEyHt603g)
 - [分布式追踪系统原理及实践](https://mp.weixin.qq.com/s/1TVsxplw_FdB4Kv4tf8tBQ)
 
-### 数据结构：
-
-- [Java 集合框架看这一篇就够了](https://t.1yb.co/3p0G)  
-- [有关 HashMap 面试会问的一切](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000171&idx=1&sn=4e38e67791f3f67e15aea2e666f6d308&chksm=68f491915f831887f943356c45dac6c8ebacd1bef31432d0aec509ec3a3b835fe0c1f5c5cc4a#rd)  
-- [入职大厂，齐姐精选的 9 道 Java 集合面试题](https://t.1yb.co/3p0K)  
-- [堆](https://t.1yb.co/3p0I)    
-- [看了齐姐这篇文章，再也不怕面试问树了](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485454&idx=1&sn=1d87aa9d561af3000fabd0299bc5641f&chksm=e8f49834df831122441f6b7fc6485e29b1b0206232cf4ea744da5a5164d42fd45f92b45c2e8a#rd)  
-- [有关链表的小技巧，我都给你总结好了](https://mp.weixin.qq.com/s/dvdFf2eorAFtdL-y7FMpOA)  
-
-
-### 算法系列：
-- [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
-- [Leetcode 如何刷题 - 视频版](https://t.1yb.co/3p0R)  
-- [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)  
-- [反转链表](https://t.1yb.co/3p0Q)  
-- [递归和 DP 的入门](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000222&idx=1&sn=2882975d5ed764368ba09d352a1c3c36&chksm=68f491e45f8318f2140d980c6b73b1318e3ef8be31194f4cf3bce054bfe93dc433dcb19be2a9#rd) —— 一题入门递归和 DP   
-- [拓扑排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000183&idx=1&sn=09ea301acf7dd74656e9c78bea03f674&chksm=68f4918d5f83189ba10a3a5f845d16e95b95c48cec684b06e2ad6c313f35f2a4e2531bd9d8d7#rd)    
-- [二进制究竟有什么用？齐姐带你看看那些好玩儿的「位操作」](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485805&idx=1&sn=f96eb8cbfb70d9c36cc0600c7358ca81&chksm=e8f49957df8310411155d2f8d6789d19e4afca1138316fa1df27784a4bbb5cb6d05f3b745a94&token=462746322&lang=zh_CN#rd)  
-- [秒杀 2Sum 3Sum 4Sum 算法题](https://mp.weixin.qq.com/s/cadPDq7D3IYYnnMWTWhf_g)  
-- [二分查找——Find minimum in Rotate Sorted Array](https://mp.weixin.qq.com/s/C8KcEkYsqtcW1yniXARPbw) - 对应 Leetcode 153 & 154     
-- [二分查找——Find a target in Rotate Sorted Array](https://mp.weixin.qq.com/s/jJzTKJTaMIx753XwVYT8pw) - 对应 Leetcode 33 & 81  
-- [Meeting room](https://mp.weixin.qq.com/s/x-kroWsyFgqmQhlB793TOg) - 对应 Leetcode 252 & 253: Meeting Rooms   
-
-**排序算法**：  
-  - [插入&选择排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000660&idx=1&sn=c4bb44f5700e304bce10d43943a2f50f&chksm=68f493ae5f831ab8b7fa7fbca4265226248ac6c412f24cad6c9ee6035ec4d5c56cdcc550edac#rd)  
-  - [归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)  
-  - [快速排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000886&idx=1&sn=a6121c5eb2031646012fa434aee5f883&chksm=68f4944c5f831d5a3e49c3e6c1314a21d4658886ce3e4e72f0be8a5532514851418a1d3f4ccd#rd)  
-  - [荷兰旗问题/彩虹排序/三色排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000907&idx=1&sn=a1edaefa4e6ccf82ecaa9f95a32d14ab&chksm=68f494b15f831da77f86042e4e560461a620def40f6ff8172a6ae778a210ab0385113d2f3a91#rd)   
 
 
 ### Spring 系列：  
@@ -139,6 +128,20 @@ FLAG 系列：
 ### 其他技术文章：  
 
 - [Git 看着一篇就够了](https://t.1yb.co/3p0P)  
+
+
+### 我的故事  
+- [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
+- [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
+- [我的大学四年](https://t.1yb.co/3p0O)    
+- [我为什么离开投行？](https://t.1yb.co/3p0H)   
+- [在纽约科技公司上班的第一周是怎样的？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483804&idx=1&sn=de8a4d70f37ae304173a666bfde5fedf&chksm=e8f491a6df8318b0065bd01321255ce5c3250e19a4c6766a9f8f8ea72718141154d58c28418f&token=939207694&lang=zh_CN#rd)  
+- [宅家半年，终于出门放风了...](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486085&idx=1&sn=dfa164a2b5abdbe8c2e7598003b8cd22&chksm=e8f49abfdf8313a9d6516fad0f5dfac7bd3ea68f082cbface8e14ecc6414a72dfd7f5c031ac7&token=462746322&lang=zh_CN#rd)  
+- [暴乱 | 宵禁 | 最近我身边的事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484758&idx=1&sn=0e93daa214f4105ef92819916c20658e&chksm=e8f4956cdf831c7af3c5db0eddb3e56d101e97234186c053baa479743faca37133682c60c3c0&token=939207694&lang=zh_CN#rd)  
+- [程序员版《后浪》](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483918&idx=1&sn=bc4d582a4653af63c80c360e9468a6aa&chksm=e8f49234df831b22807615fdf42f612ece1897cd7a78370c8cc984c565f82a45e167d6dac29d&token=939207694&lang=zh_CN#rd)  
+- [在美国毕业后第一年薪水有 200 万？？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483898&idx=1&sn=f3ba4ad9092a694469eb9abc8ac9041d&chksm=e8f491c0df8318d65794d8d724c4d137526f27d019a5a1dcd305ea086153d9a15daab43037c9&token=939207694&lang=zh_CN#rd)  
+- [疫情下开始在家工作，现在除了防护还应做好哪些准备？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483798&idx=1&sn=3ee12a5a4d8d3290d54ef0d805aaafe1&chksm=e8f491acdf8318ba1e238b603ea050150ffc37467801058a65d5edcd55910f8588e788a3d89b&token=939207694&lang=zh_CN#rd)  
+- [对抗新型肺炎，保险能 cover 多少？手把手带你选中美保险](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483803&idx=1&sn=10d6fad12d0e15f924d76b4994c2b817&chksm=e8f491a1df8318b76e629251fe6fd521eb4452baa032e9bf897301d1222a0eaf8d227eb19c7c&token=939207694&lang=zh_CN#rd)  
 
 
 
