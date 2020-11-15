@@ -68,6 +68,7 @@
 
 
 ### 面试/求职经验  
+- [齐姐是如何拿到高盛 3 个 offer 的？](https://mp.weixin.qq.com/s/z9INuG2TsC_ngV0MTW4RWQ)  
 - [究竟什么样的简历才能拿到面试？](https://mp.weixin.qq.com/s/SFK6hGBLSeWHAtt3aNsFWQ)  
 - [从 LRU Cache 带你看面试的本质](https://t.1yb.co/3p0S)   
 - [靠这些秋招秘笈，齐姐的学妹拿到了 8 个offer](https://mp.weixin.qq.com/s/YnhMnq20kB2cQ2FC0acgbA)  
