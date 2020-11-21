@@ -80,15 +80,16 @@
 
 ### 《齐姐聊大厂》系列：每周五早上 8 点，公众号首发
 
-FLAG 系列：
+FLAG 系列：  
+- [Facebook 的神仙组长什么样？](https://mp.weixin.qq.com/s/V8JPJ-fGP-zhKKtYSlLHsw)  
 - [Linkedin - 钱多活少饭好吃的公司，你愿意来吗？](https://mp.weixin.qq.com/s/SjkKVDYKmH8VwmaXceKy5g)  
 - [Apple - 在市值破万亿美元的公司工作，是一种怎样的体验？](https://mp.weixin.qq.com/s/IOemRIL15RDcRQaAF4ibmg)    
-- [Amazon - 从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)   
-- [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd)  
+- [Amazon - 从国内的996，到美国的朝9晚5，真的这么惬意吗？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485813&idx=1&sn=2897943cfd2f85deb689bdcf159b4fe6&chksm=e8f4994fdf8310596da1140fee500f9e434ca49fc34e380a5639fa31d953c5e371217afe7201&token=462746322&lang=zh_CN#rd)     
 - [谷歌 - 入职谷歌不到一年就升职是一种怎样的体验？](https://mp.weixin.qq.com/s/eiVHQYyCitbrxaEV7LC_dQ)  
 - [微软 - 入职微软三个月把老板炒了，七个月自己跑路是一种怎样的体验？](https://mp.weixin.qq.com/s/Dd4bpWKe7uWupiC7n7iJ6w)  
 - [雅虎 - 一代巨星的陨落！](https://mp.weixin.qq.com/s/YmNGFQ2BERkcG1jCHuE1Fg)   
 - [在美国东海岸小公司工作 3 年的感受](https://mp.weixin.qq.com/s/AFtluIJuQsX-Zg7U2KVpaA)  
+- [美国大厂 IC 转 Manager 长文故事](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483884&idx=1&sn=4f704c25281c3fab9439ec52d676c5c3&chksm=e8f491d6df8318c004c106eec5101de45ea9a5f4f760cf7735ddb88f12b9080b4fb8d5d3d67e&token=939207694&lang=zh_CN#rd) 
 
 国内系列：  
 - [百万年薪，国内工作 6 年的前辈想和你分享这四点](https://mp.weixin.qq.com/s/euCJ4OdAe2MocJq9lwWQiw)  
@@ -100,6 +101,7 @@ FLAG 系列：
 金融行业：  
 - [聊聊我与大摩的爱恨情仇](https://t.1yb.co/3p0F)  
 - [这家总资产排名第一的银行，为什么叫“小”摩？](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247485705&idx=1&sn=0f87df11c5153127958f3e5f2f8da634&chksm=e8f49933df831025c474507b80c3330fdcd5aa040f7af03c6a5956c25c22b4ee3824083b79ed&token=462746322&lang=zh_CN#rd)  
+- [不想做科技第一的金融公司，不是好的养老去处](https://mp.weixin.qq.com/s/iBoV2q76MBX465afmdsU1A)  
 
 其他：  
 - [为什么老板给 ta 升职加薪？](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247484949&idx=1&sn=f00cb18881a5f02ffb237921ac82f67e&chksm=e8f4962fdf831f39d4b042a4bedd593683dc2cc7e254516c773816e9b47e27433ee097fc3d87&token=939207694&lang=zh_CN#rd)  
