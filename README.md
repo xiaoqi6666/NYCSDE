@@ -138,6 +138,7 @@ FLAG 系列：
 ### 我的故事  
 - [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)  
 - [来看看黑五小齐都买了什么好东西？](https://mp.weixin.qq.com/s/mZSlbQ0DsLkMjdljBCdFEQ)  
+- [感恩节新花样～瞄一眼小齐的暖心福利你能领多少？](https://mp.weixin.qq.com/s/u6kDTynE2L7FKNxf3I1nOg)  
 - [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
 - [我的大学四年](https://t.1yb.co/3p0O)    
 - [我为什么离开投行？](https://t.1yb.co/3p0H)   
