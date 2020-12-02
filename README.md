@@ -4,6 +4,7 @@
 这里是齐姐打造的有关**程序员**提升的一切：
 
 - 每周 2 篇原创干货文章，首发在公众号，公众号内  
+回复【大厂】获取《齐姐聊大厂》系列 20201201 版；  
 回复【01】获取我精选的5份刷题笔记；  
 回复【02】获取最新互联网大厂面经；  
 回复【03】获取我精选的面试资料；  
@@ -135,7 +136,8 @@ FLAG 系列：
 
 
 ### 我的故事  
-- [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)
+- [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)  
+- [来看看黑五小齐都买了什么好东西？](https://mp.weixin.qq.com/s/mZSlbQ0DsLkMjdljBCdFEQ)  
 - [在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
 - [我的大学四年](https://t.1yb.co/3p0O)    
 - [我为什么离开投行？](https://t.1yb.co/3p0H)   
