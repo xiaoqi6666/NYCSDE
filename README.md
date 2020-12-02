@@ -133,6 +133,7 @@ FLAG 系列：
 ### 其他技术文章：  
 
 - [Git 看着一篇就够了](https://t.1yb.co/3p0P)  
+- [一文带你玩转设计模式之「责任链」](https://mp.weixin.qq.com/s/AR923puMc5qWT-y7F3wA5A)  
 
 
 ### 我的故事  
