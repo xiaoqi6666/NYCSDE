@@ -59,7 +59,7 @@
 
 ### 数据结构：
 
-- [Java 集合框架看这一篇就够了](https://t.1yb.co/3p0G)  
+- [Java 集合框架看这一篇就够了](https://mp.weixin.qq.com/s/7WA1k31xmatsYTEfyMdLEQ)  
 - [有关 HashMap 面试会问的一切](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000171&idx=1&sn=4e38e67791f3f67e15aea2e666f6d308&chksm=68f491915f831887f943356c45dac6c8ebacd1bef31432d0aec509ec3a3b835fe0c1f5c5cc4a#rd)  
 - [入职大厂，齐姐精选的 9 道 Java 集合面试题](https://t.1yb.co/3p0K)  
 - [堆](https://t.1yb.co/3p0I)    
