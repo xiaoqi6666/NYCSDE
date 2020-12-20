@@ -6,9 +6,9 @@
 - 视频首发B站，每周五晚上更新；
 - 公众号内回复【进群】加入技术交流群，大佬云集。
 
-点击每个 icon 关注我哦：
-[![](https://img.shields.io/badge/公众号-码农田小齐-brightgreen)](#公众号)
-[![](https://img.shields.io/badge/微信视频号-视频号-red)](#视频号)
+## 点击每个 icon 关注我哦：
+[![](https://img.shields.io/badge/公众号-NYCSDE-brightgreen)](#公众号)
+[![](https://img.shields.io/badge/视频号-微信视频号-red)](#视频号)
 [![](https://img.shields.io/badge/哔哩哔哩-B站-ff69b4)](https://space.bilibili.com/494413969)
 [![](https://img.shields.io/badge/知乎-ff69b4)](https://www.zhihu.com/people/huiqi)
 
