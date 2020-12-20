@@ -1,35 +1,17 @@
-# 嗨你好！我是小齐，纽约程序媛，终生学习者。
+![](https://tva1.sinaimg.cn/large/0081Kckwly1gluoodecwjj32nn0rs13m.jpg)
 
 这里是齐姐打造的有关**程序员**提升的一切：
 
-- 每周原创干货文章首发【微信公众号】，公众号内送好礼：  
-回复【大厂】获取《齐姐聊大厂》系列 20201201 版；  
-回复【01】获取我精选的5份刷题笔记；  
-回复【02】获取最新互联网大厂面经；  
-回复【03】获取我精选的面试资料；  
-回复【05】获取计算机相关专业的经典书籍资料，包含了计算机基础、网络编程、后端、前端、全栈、Java、C++、Python、Linux、数据库等方向。  
-
+- 每周原创干货文章首发【微信公众号】，公众号内回复【666】获得所有文章PDF集合；
 - 视频首发B站，每周五晚上更新；
-
 - 公众号内回复【进群】加入技术交流群，大佬云集。
 
-
+点击每个 icon 关注我哦：
 [![](https://img.shields.io/badge/公众号-码农田小齐-brightgreen)](#公众号)
-[![](https://img.shields.io/badge/Wechat-私人微信-red)](#微信)
+[![](https://img.shields.io/badge/微信视频号-视频号-red)](#视频号)
 [![](https://img.shields.io/badge/哔哩哔哩-B站-ff69b4)](https://space.bilibili.com/494413969)
-[![](https://img.shields.io/badge/Youtube-油管-ff69b4)](https://www.youtube.com/channel/UCs9h4-b9r6yR1zl4yf6lCmQ)
+[![](https://img.shields.io/badge/知乎-ff69b4)](https://www.zhihu.com/people/huiqi)
 
-## [做公众号的初心](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247483805&idx=1&sn=a518935eb89599aea7ef9f091e5cd870&chksm=e8f491a7df8318b17519bf5779af17bfdcf3b054c096f7669a4ac850f7bfe39228e2e88ad6be&token=939207694&lang=zh_CN#rd)  
-
-### 一起自习吧  
-
-北京时间每晚 9 点，齐姐都在 B 站直播自习，大家都会打卡签到，是 B 站最好的程序员自习群～～
-
-10 月自习打卡活动正在火热进行中，欢迎加入赢取齐姐红包～～  
-
-[我是如何高效地学习、工作和生活的](https://t.1yb.co/3p0L)    
-[我是如何做到自律的](https://tinyurl.com/y6lco737)  
-[在家工作了半年，齐姐这些有意思的事想和你们分享](https://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=2247486492&idx=1&sn=a9af3e17422aaafac82f9280b873c0ef&chksm=e8f49c26df831530448f5815fcd2c3d40d6a2794e56012d055f9168765f0a1f1cd7d4cf535ac&token=445384448&lang=zh_CN#rd)  
 
 ### 算法系列：
 - [从小白到 6 个 offer，我究竟是怎么刷题的？](https://mp.weixin.qq.com/s/B9ttml8KX7kn7K1mvbRbng)  
@@ -50,7 +32,6 @@
   - [归并排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000707&idx=1&sn=1451c045270ba5278d121df641547603&chksm=68f493f95f831aefb881f53f81299eed19c20ea22f36e110baf1620a8f1eedea7c89b3723815#rd)  
   - [快速排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000886&idx=1&sn=a6121c5eb2031646012fa434aee5f883&chksm=68f4944c5f831d5a3e49c3e6c1314a21d4658886ce3e4e72f0be8a5532514851418a1d3f4ccd#rd)  
   - [荷兰旗问题/彩虹排序/三色排序](http://mp.weixin.qq.com/s?__biz=MzIzNDQ3MzgxMw==&mid=100000907&idx=1&sn=a1edaefa4e6ccf82ecaa9f95a32d14ab&chksm=68f494b15f831da77f86042e4e560461a620def40f6ff8172a6ae778a210ab0385113d2f3a91#rd)   
-
 
 
 ### 数据结构：
@@ -131,6 +112,12 @@ FLAG 系列：
 - [一文带你玩转设计模式之「责任链」](https://mp.weixin.qq.com/s/AR923puMc5qWT-y7F3wA5A)  
 
 
+### 齐姐自习室  
+
+[我是如何高效地学习、工作和生活的](https://t.1yb.co/3p0L)    
+[我是如何做到自律的](https://tinyurl.com/y6lco737)  
+
+
 ### 我的故事  
 - [美国真的把微信禁了！齐姐的公众号怎么办？](https://mp.weixin.qq.com/s/bOunkWAzAGggSKWU98S9EQ)  
 - [来看看黑五小齐都买了什么好东西？](https://mp.weixin.qq.com/s/mZSlbQ0DsLkMjdljBCdFEQ)  
@@ -151,5 +138,7 @@ FLAG 系列：
 
 扫码关注，第一时间接收更多精彩文章:smirk:   
 <a name="公众号"></a>
-![公众号](https://tva1.sinaimg.cn/large/007S8ZIlgy1gil1dxkno4g30g10b91l0.gif)
+![公众号](https://tva1.sinaimg.cn/large/0081Kckwly1gluova6x0tj315g0gy14p.jpg)
 
+<a name="视频号"></a>
+![视频号](https://tva1.sinaimg.cn/large/0081Kckwly1gluox4ugl8j30rk0roe2i.jpg)
