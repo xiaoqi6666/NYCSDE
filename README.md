@@ -1,10 +1,5 @@
 ![](https://tva1.sinaimg.cn/large/0081Kckwly1gluoodecwjj32nn0rs13m.jpg)
 
-这里是齐姐打造的有关**程序员**提升的一切：
-
-- 每周原创干货文章首发公众号：NYCSDE，公众号内回复【666】获得所有文章PDF集合；
-- 视频首发B站，每周五晚上更新；
-- 公众号内回复【进群】加入技术交流群，大佬云集。
 
 ## 点击每个 icon 关注我哦：
 [![](https://img.shields.io/badge/公众号-NYCSDE-brightgreen)](#公众号)
